@@ -1,0 +1,31 @@
+td {
+    padding: 2.5px;
+}
+
+input[type=text] {
+    height: 50px;
+    width: 315px;
+}
+
+input[type=button] {
+    background-color: rgb(198, 225, 225);
+    color: rgb(30, 75, 160);
+    width: 60px;
+    border-radius: 14px;
+    height: 50px;
+}
+
+div {
+    padding: 30px;
+    top: 900px;
+    background-color: rgb(200, 180, 250);
+    width: 400px;
+    height: 370px;
+    border-radius: 25px;
+}
+
+h5 {
+    font-style: bold;
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
